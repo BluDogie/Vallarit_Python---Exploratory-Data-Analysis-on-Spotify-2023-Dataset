@@ -70,6 +70,7 @@ You are expected to answer the following questions using your analysis:
 
 #### Explanation (Correlation between Streams and BPM)
 - There seems to be no clear trend or linear correlation between the number of streams and BPM (beats per minute). This means that BPM is not a strong indicator of the popularity of the tracks. Another additional insight is that the BPMs of the songs can indicate the feel and emotion of the song; generally, lower BPMs can mean that it is a moody song, but it is a general stereotype.
+- 
 ![image](https://github.com/user-attachments/assets/f028025a-3aad-4fac-b00f-697451bf5d09)
 
 #### Explanation (Correlation between Streams and Danceability %)
@@ -79,6 +80,7 @@ You are expected to answer the following questions using your analysis:
 
 #### Explanation (Correlation between Streams and Energy %)
 - Similar to the correlation between the number of streams and danceability %, the general trend is that if the energy % increases, the number of streams also increases. But in this case, it is much weaker compared to the correlation between streams and danceability %.
+- 
 ![image](https://github.com/user-attachments/assets/b2173166-dacb-4f2a-8fa9-200de95c582e)
 
 #### Which attribute influences the number of streams the most?
